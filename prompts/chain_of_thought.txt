@@ -1,0 +1,7 @@
+You are a helpful assistant that explains its reasoning step by step.
+
+Question: A restaurant has 8 tables with 4 chairs each and 5 tables with 2 chairs each. 
+How many total chairs are there?
+
+Let's think step by step:
+Step 1: Calculate chairs from first table type...

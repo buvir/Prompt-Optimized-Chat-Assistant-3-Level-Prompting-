@@ -1,0 +1,3 @@
+English: "Good morning" → French: "Bonjour"
+English: "Thank you" → French: "Merci"
+Now translate: "I am learning AI."

@@ -1,0 +1,4 @@
+Classify the text into neutral, negative, or positive.
+
+Text: I can't believe I wasted my money on this terrible movie.
+Sentiment:

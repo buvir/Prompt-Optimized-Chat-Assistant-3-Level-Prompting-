@@ -1,0 +1,13 @@
+Classify the text into neutral, negative, or positive.
+
+Text: The weather is okay today.
+Sentiment: Neutral
+
+Text: This is the best day of my life!
+Sentiment: Positive
+
+Text: I'm so frustrated with this traffic jam.
+Sentiment: Negative
+
+Text: The package arrived earlier than expected.
+Sentiment:
